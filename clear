@@ -1,0 +1,288 @@
+[33mcommit 37083d766356430a3aa09506f7e535d092d685be[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Seu Nome <guilhermexneto@gmail.com>
+Date:   Thu Jan 4 15:23:51 2024 -0300
+
+    Enviando Arquivos iniciais
+
+[1mdiff --git a/CV__Guilherme__Neto__2022.pdf b/CV__Guilherme__Neto__2022.pdf[m
+[1mnew file mode 100644[m
+[1mindex 0000000..8f861b0[m
+[1m--- /dev/null[m
+[1m+++ b/CV__Guilherme__Neto__2022.pdf[m
+[36m@@ -0,0 +1,96 @@[m
+[32m+[m[32m                        GUILHERME GONÇALVES NETO[m
+[32m+[m
+[32m+[m[32m                        | Representante Comercial Energia Solar | Ciência da Computação |[m
+[32m+[m[32m                           Inside Sales | Field Sales | Produtividade | SPIN selling | PDCA[m
+[32m+[m
+[32m+[m[32m                            Colubandê - São Gonçalo / RJ[m
+[32m+[m[32m                            (21) 96514-4179[m
+[32m+[m[32m                            guilhermexneto@gmail.com[m
+[32m+[m
+[32m+[m[32mResumo / Objetivo[m
+[32m+[m[32m                       Habilidade em negociações comerciais com clientes, identificando suas necessidades.[m
+[32m+[m[32m                       Desenvolvimento de estratégias para atração e retenção de clientes.[m
+[32m+[m
+[32m+[m[32mInformações Adicionais[m
+[32m+[m[32m                                             Estado Civil: Casado - CNH categoria B[m
+[32m+[m
+[32m+[m[32mFormação acadêmica[m
+[32m+[m[32m    Início: julho de 2021 UNIVERSIDADE ESTÁCIO DE SÁ[m
+[32m+[m
+[32m+[m[32m  Término: junho de 2025 BACHARELADO EM CIÊNCIA DA COMPUTAÇÃO[m
+[32m+[m
+[32m+[m[32mCertificações[m
+[32m+[m
+[32m+[m[32m                        ● Empretec (SEBRAE)[m
+[32m+[m[32m                        ● Técnicas De Vendas (SEBRAE)[m
+[32m+[m[32m                        ● Técnicas De Fechamento De Vendas (CYRELA)[m
+[32m+[m[32m                        ● IPGN (SEBRAE)[m
+[32m+[m[32m                        ● Pacote office Avançado (ESTÁCIO DE SÁ)[m
+[32m+[m[32m                        ● Consultoria Estratégica de vendas (FCA-2019)[m
+[32m+[m[32m                        ● Tríad Training (Gestão Do Tempo - Christian Barbosa[m
+[32m+[m[32m                        ● Gestão De Pessoas (ISVOR - FIAT)[m
+[32m+[m[32m                        ● Consultor Técnico (SENAI - FIAT)[m
+[32m+[m[32m                        ● Defesa Do Consumidor (SENAI - FIAT)[m
+[32m+[m[32m                        ● Conhecimento Do Produto (SENAI - PEUGEOT-CITROËN)[m
+[32m+[m[32m                        ● Controles Operacionais Da Oficina (SENAI - FIAT)[m
+[32m+[m[32m                        ● Tec. 21 (FÁBRICA - TOYOTA)[m
+[32m+[m[32m                        ● Projeto Educar Máster (BOVESPA)[m
+[32m+[m[32m                        ● Formação De Preço (SEBRAE)[m
+[32m+[m
+[32m+[m[32mHistórico profissional[m
+[32m+[m
+[32m+[m[32mInício: setembro 2021   Trielo Energia Solar LTDA[m
+[32m+[m[32mTérmino: atual          Sales Development Representative[m
+[32m+[m[32m                        - Gestão de negociações B2B; B2C[m
+[32m+[m[32m                        - Realização de reuniões através das técnicas de Rapport e[m
+[32m+[m[32m                        Storytelling;[m
+[32m+[m[32m                        - Alimentação de relatórios e plataformas relacionadas;[m
+[32m+[m[32m                        - Funil de Vendas;[m
+[32m+[m[32m                        - Gestão de Leads;[m
+[32m+[m[32m                        - Fechamento de projetos residenciais e comerciais.[m
+[32m+[m[32mInício: abril 2019       Sabenauto Veículos Ltda (Concessionária Chevrolet)[m
+[32m+[m[32mTérmino: junho 2020      Consultor de F&I[m
+[32m+[m[32m                         - Realização de financiamento bancários;[m
+[32m+[m[32m                         - Oferta de produtos agregados: acessórios e despachante;[m
+[32m+[m[32m                         - Venda de Acessórios veiculares;[m
+[32m+[m[32m                         - Acompanhamento de todo o processo até o faturamento do veículo.[m
+[32m+[m[32m                         - Vendas de consórcio no caso da negativa do financiamento.[m
+[32m+[m
+[32m+[m[32mInício: março 2018       Kia Klahn - Grupo Dirija Ltda (Concessionária Kia)[m
+[32m+[m[32mTérmino: março 2019      Consultor de Vendas Novos e Usados[m
+[32m+[m[32m                         - Gestão da carteira de clientes e abertura de frentes de vendas[m
+[32m+[m[32m                         - Realização dos processos de venda até a entrega técnica;[m
+[32m+[m[32m                         - Oferta de produtos agregados: acessórios e despachante;[m
+[32m+[m[32m                         - Atividades relacionadas a financiamento;[m
+[32m+[m
+[32m+[m[32mInício: dezembro 2015    Corretor de Imóveis Autônomo.[m
+[32m+[m[32mTérmino: fevereiro 2018  Corretor de Imóveis - Locações de Imóveis[m
+[32m+[m[32m                         - Captação e Vendas de imóveis;[m
+[32m+[m[32m                         - Atendimento ao Proprietário e comprador;[m
+[32m+[m[32m                         - Avaliação dos imóveis (Venda e Locação)[m
+[32m+[m[32m                         - Administração da carteira de leads;[m
+[32m+[m[32m                         - Funil de vendas[m
+[32m+[m[32m                         - Parcerias de negócios;[m
+[32m+[m
+[32m+[m[32mInício: outubro 2015     João Fortes Engenharia[m
+[32m+[m[32mTérmino: outubro 2017    Corretor de imóveis[m
+[32m+[m[32m                         - Vendas de imóveis lançamento;[m
+[32m+[m[32m                         - Gestão da Carteira de clientes[m
+[32m+[m[32m                         - Administração da carteira de leads;[m
+[32m+[m[32m                         - Parcerias de negócios;[m
+[32m+[m[32m                         - Realização de ações externas - Leads[m
+[32m+[m[32m                         - Abertura de frentes de prospecção;[m
+[32m+[m[32m                         - Atividades relacionadas a financiamento;[m
+[32m+[m
+[32m+[m[32mInício: dezembro 2012    Brasil Brokers Imobiliária[m
+[32m+[m[32mTérmino: setembro        Corretor de imóveis[m
+[32m+[m[32m2019                     - Vendas de imóveis lançamento e usados;[m
+[32m+[m[32m                         - Gestão da Carteira de clientes[m
+[32m+[m[32m                         - Administração da carteira de leads;[m
+[32m+[m[32m                         - Parcerias de negócios;[m
+[32m+[m[32m                         - Realização de ações externas - Leads[m
+[32m+[m[32m                         - Abertura de frentes de prospecção;[m
+[32m+[m[32m                         - Atividades relacionadas a financiamento;[m
+[32m+[m
+[32m+[m[32m                         20/02/2022[m
+[32m+[m[32m[m
+[1mdiff --git a/arrow.png b/arrow.png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..395333f[m
+Binary files /dev/null and b/arrow.png differ
+[1mdiff --git a/checkmark.png b/checkmark.png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e18e143[m
+Binary files /dev/null and b/checkmark.png differ
+[1mdiff --git a/education.png b/education.png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..1a0cd97[m
+Binary files /dev/null and b/education.png differ
+[1mdiff --git a/email.png b/email.png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..480e480[m
+Binary files /dev/null and b/email.png differ
+[1mdiff --git a/experience.png b/experience.png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e457565[m
+Binary files /dev/null and b/experience.png differ
+[1mdiff --git a/fonts.googleapis.com/css2.css b/fonts.googleapis.com/css2.css[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e690f46[m
+[1m--- /dev/null[m
+[1m+++ b/fonts.googleapis.com/css2.css[m
+[36m@@ -0,0 +1,109 @@[m
+[32m+[m[32m/* devanagari */[m
+[32m+[m[32m@font-face {[m
+[32m+[m[32m    font-family: 'Poppins';[m
+[32m+[m[32m    font-style: normal;[m
+[32m+[m[32m    font-weight: 300;[m
+[32m+[m[32m    font-display: swap;[m
+[32m+[m[32m    src: url(https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8Z11lFc-K.woff2) format('woff2');[m
+[32m+[m[32m    unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FF;[m
+[32m+[m[32m  }[m
+[32m+[m[32m  /* latin-ext */[m
+[32m+[m[32m  @font-face {[m
+[32m+[m[32m    font-family: 'Poppins';[m
+[32m+[m[32m    font-style: normal;[m
+[32m+[m[32m    font-weight: 300;[m
+[32m+[m[32m    font-display: swap;[m
+[32m+[m[32m    src: url(https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8Z1JlFc-K.woff2) format('woff2');[m
+[32m+[m[32m    unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;[m
+[32m+[m[32m  }[m
+[32m+[m[32m  /* latin */[m
+[32m+[m[32m  @font-face {[m
+[32m+[m[32m    font-family: 'Poppins';[m
+[32m+[m[32m    font-style: normal;[m
+[32m+[m[32m    font-weight: 300;[m
+[32m+[m[32m    font-display: swap;[m
+[32m+[m[32m    src: url(https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8Z1xlFQ.woff2) format('woff2');[m
+[32m+[m[32m    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;[m
+[32m+[m[32m  }[m
+[32m+[m[32m  /* devanagari */[m
+[32m+[m[32m  @font-face {[m
+[32m+[m[32m    font-family: 'Poppins';[m
+[32m+[m[32m    font-style: normal;[m
+[32m+[m[32m    font-weight: 400;[m
+[32m+[m[32m    font-display: swap;[m
+[32m+[m[32m    src: url(https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJbecmNE.woff2) format('woff2');[m
+[32m+[m[32m    unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FF;[m
+[32m+[m[32m  }[m
+[32m+[m[32m  /* latin-ext */[m
+[32m+[m[32m  @font-face {[m
+[32m+[m[32m    font-family: 'Poppins';[m
+[32m+[m[32m    font-style: normal;[m
+[32m+[m[32m    font-weight: 400;[m
+[32m+[m[32m    font-display: swap;[m
+[32m+[m[32m    src: url(https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJnecmNE.woff2) format('woff2');[m
+[32m+[m[32m    unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;[m
+[32m+[m[32m  }[m
+[32m+[m[32m  /* latin */[m
+[32m+[m[32m  @font-face {[m
+[32m+[m[32m    font-family: 'Poppins';[m
+[32m+[m[32m    font-style: normal;[m
+[32m+[m[32m    font-weight: 400;[m
+[32m+[m[32m    font-display: swap;[m
+[32m+[m[32m    src: url(https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfecg.woff2) format('woff2');[m
+[32m+[m[32m    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;[m
+[32m+[m[32m  }[m
+[32m+[m[32m  /* devanagari */[m
+[32m+[m[32m  @font-face {[m
+[32m+[m[32m    font-family: 'Poppins';[m
+[32m+[m[32m    font-style: normal;[m
+[32m+[m[32m    font-weight: 500;[m
+[32m+[m[32m    font-display: swap;[m
+[32m+[m[32m    src: url(https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z11lFc-K.woff2) format('woff2');[m
+[32m+[m[32m    unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FF;[m
+[32m+[m[32m  }[m
+[32m+[m[32m  /* latin-ext */[m
+[32m+[m[32m  @font-face {[m
+[32m+[m[32m    font-family: 'Poppins';[m
+[32m+[m[32m    font-style: normal;[m
+[32m+[m[32m    font-weight: 500;[m
+[32m+[m[32m    font-display: swap;[m
+[32m+[m[32m    src: url(https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1JlFc-K.woff2) format('woff2');[m
+[32m+[m[32m    unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;[m
+[32m+[m[32m  }[m
+[32m+[m[32m  /* latin */[m
+[32m+[m[32m  @font-face {[m
+[32m+[m[32m    font-family: 'Poppins';[m
+[32m+[m[32m    font-style: normal;[m
+[32m+[m[32m    font-weight: 500;[m
+[32m+[m[32m    font-display: swap;[m
+[32m+[m[32m    src: url(https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1xlFQ.woff2) format('woff2');[m
+[32m+[m[32m    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;[m
+[32m+[m[32m  }[m
+[32m+[m[32m  /* devanagari */[m
+[32m+[m[32m  @font-face {[m
+[32m+[m[32m    font-family: 'Poppins';[m
+[32m+[m[32m    font-style: normal;[m
+[32m+[m[32m    font-weight: 600;[m
+[32m+[m[32m    font-display: swap;[m
+[32m+[m[32m    src: url(https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z11lFc-K.woff2) format('woff2');[m
+[32m+[m[32m    unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FF;[m
+[32m+[m[32m  }[m
+[32m+[m[32m  /* latin-ext */[m
+[32m+[m[32m  @font-face {[m
+[32m+[m[32m    font-family: 'Poppins';[m
+[32m+[m[32m    font-style: normal;[m
+[32m+[m[32m    font-weight: 600;[m
+[32m+[m[32m    font-display: swap;[m
+[32m+[m[32m    src: url(https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1JlFc-K.woff2) format('woff2');[m
+[32m+[m[32m    unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;[m
+[32m+[m[32m  }[m
+[32m+[m[32m  /* latin */[m
+[32m+[m[32m  @font-face {[m
+[32m+[m[32m    font-family: 'Poppins';[m
+[32m+[m[32m    font-style: normal;[m
+[32m+[m[32m    font-weight: 600;[m
+[32m+[m[32m    font-display: swap;[m
+[32m+[m[32m    src: url(https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2) format('woff2');[m
+[32m+[m[32m    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;[m
+[32m+[m[32m  }[m
+[32m+[m[41m  [m
+\ No newline at end of file[m
+[1mdiff --git a/github.png b/github.png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..9490ffc[m
+Binary files /dev/null and b/github.png differ
+[1mdiff --git a/guilherme.neto_275.jpg b/guilherme.neto_275.jpg[m
+[1mnew file mode 100644[m
+[1mindex 0000000..987df6f[m
+Binary files /dev/null and b/guilherme.neto_275.jpg differ
+[1mdiff --git a/guilherme__dev02.jpg b/guilherme__dev02.jpg[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e839167[m
+Binary files /dev/null and b/guilherme__dev02.jpg differ
+[1mdiff --git a/guilherme_dev1.png b/guilherme_dev1.png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..f18a671[m
+Binary files /dev/null and b/guilherme_dev1.png differ
+[1mdiff --git a/index.html b/index.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..2865a51[m
+[1m--- /dev/null[m
+[1m+++ b/index.html[m
+[36m@@ -0,0 +1,294 @@[m
+[32m+[m[32m<!DOCTYPE html>[m
+[32m+[m[32m<html lang="pt-br">[m
+[32m+[m[32m    <head>[m
+[32m+[m[32m        <meta charset="UTF-8">[m
+[32m+[m[32m        <meta name="viewport" content="width=device-width, initial-scale=1.0">[m
+[32m+[m[32m        <title>Meu Portfólio</title>[m
+[32m+[m[32m        <link rel="stylesheet" href="style.css">[m
+[32m+[m[32m        <link rel="stylesheet" href="mediaqueries.css">[m
+[32m+[m[41m    [m
+[32m+[m[41m     [m
+[32m+[m[32m    </head>[m
+[32m+[m[41m       [m
+[32m+[m
+[32m+[m
+[32m+[m[32m    <body class="vsc-initialized">[m
+[32m+[m[32m        <nav id="desktop-nav">[m
+[32m+[m[32m            <div class="logo">Guilherme Gonçalves Neto</div>[m
+[32m+[m[32m            <div>[m
+[32m+[m[32m                <ul class="nav-links">[m
+[32m+[m[32m                    <li>[m
+[32m+[m[32m                        <a href="#about">Sobre</a>[m
+[32m+[m[32m                    </li>
